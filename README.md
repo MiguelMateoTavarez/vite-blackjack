@@ -1,3 +1,3 @@
 # vite-blackjack
 
-## https://timely-palmier-bdfc37.netlify.app/
+## <a target="_blank" href="https://timely-palmier-bdfc37.netlify.app/">Demo</a>
